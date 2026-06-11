@@ -81,6 +81,22 @@ No one owns the part that's actually hard: a *reusable* dietary identity that th
 
 ---
 
+## Why Now
+
+The pieces this needs all arrived in the last few years, and they arrived together.
+
+Portable credentials became muscle memory. Apple Wallet and Google Wallet, NameDrop-style tap sharing, and scan-to-open interactions are now everyday behavior. A few years ago, "open your pass and share it" needed explaining. Today it's a reflex, which means the handoff PassPlate depends on no longer has to be taught.
+
+Restaurants already digitized the read side. QR menus and digital ordering went mainstream after 2020. Venues that would never have added a new screen now already have scan-based touchpoints, which lowers the cost of the other side ever reading a PlateID.
+
+AI made the messy part cheap. Structuring free-text allergy notes, summarizing a whole guest list for a host, and translating needs into plain language were impractical to build before modern language models. They're now a thin, affordable layer. The work that makes the data actually usable just dropped in cost by an order of magnitude.
+
+Dietary identity is more common and more visible. Food allergy prevalence is rising, and dietary identity has broadened well beyond allergies into religious, health, and lifestyle needs that people now carry openly into every social meal. The friction surface is growing, not shrinking.
+
+None of these alone makes PassPlate possible. Together they mean the infrastructure, the behavior, and the enabling technology finally line up at the same time.
+
+---
+
 ## The AI Layer
 
 AI acts as a communication and coordination layer, never a substitute for medical, nutritional, or allergy advice. Use cases include:
